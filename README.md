@@ -10,10 +10,10 @@
 
 ## Contents
 |Chapter No|Title|
-| :----: | :----: |
-|Chapter 1|Hello Python|
-|Chapter 2|Perceptron|
-|Chapter 3|Neural Network|
+| :----: | ---- |
+|Chapter 1|[Hello Python](https://github.com/CKtrace/Deep_Learning_from_Scratch/tree/main/Hello%20Python)|
+|Chapter 2|[Perceptron](https://github.com/CKtrace/Deep_Learning_from_Scratch/tree/main/Perceptron)|
+|Chapter 3|[Neural Network](https://github.com/CKtrace/Deep_Learning_from_Scratch/tree/main/Neural%20Network)|
 |Chapter 4|Neural Network Training|
 |Chapter 5|Backpropagation|
 |Chapter 6|Learning Related Skills|
